@@ -1,0 +1,21 @@
+{
+  "name": "StudyFlow AI",
+  "short_name": "StudyFlow AI",
+  "description": "Track your study hours and boost your productivity with an AI assistant.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "hsl(208 100% 97.1%)",
+  "theme_color": "hsl(275 100% 25.1%)",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
